@@ -1,0 +1,433 @@
+{
+  "version": 1,
+  "asset_key_id": "k1",
+  "generated_at": "2026-07-16T01:59:20.466Z",
+  "assets": [
+    {
+      "id": "aplausos",
+      "name": "Aplausos",
+      "kind": "video",
+      "file": "Aplausos.webm",
+      "enc": "assets/Aplausos.webm.enc",
+      "sha256": "15f02d0542744584048e8b9e79f3e24fac88827ad2d500e89fdbb3fcdc9173f7",
+      "size": 1669769,
+      "preview": "Aplausos.preview.webp",
+      "previewEnc": "assets/Aplausos.preview.webp.enc",
+      "previewSha256": "ae1ddd804aec5045371fe139c5008a9c085ffe7fde9d883c194c88d496cd6e56"
+    },
+    {
+      "id": "big-cartoon-tremolo-jump",
+      "name": "Big Cartoon Tremolo Jump",
+      "kind": "sound",
+      "file": "Big Cartoon Tremolo Jump.mp3",
+      "enc": "assets/Big Cartoon Tremolo Jump.mp3.enc",
+      "sha256": "da32cc3615f829edc905f982a7232f11ff54888a1607f330373f242c92660849",
+      "size": 142659
+    },
+    {
+      "id": "bomba-de-tiempo",
+      "name": "Bomba de tiempo",
+      "kind": "video",
+      "file": "Bomba de tiempo.webm",
+      "enc": "assets/Bomba de tiempo.webm.enc",
+      "sha256": "a629115386eefd5724e8165683b271272061983d59632078e651e4f30997a9fa",
+      "size": 1876431,
+      "preview": "Bomba de tiempo.preview.webp",
+      "previewEnc": "assets/Bomba de tiempo.preview.webp.enc",
+      "previewSha256": "2ff21911edd9f6ca2cbcdf5046deb4440f535fa25917393f6325385e50a49522"
+    },
+    {
+      "id": "buzzer-error",
+      "name": "Buzzer Error",
+      "kind": "sound",
+      "file": "Buzzer Error.mp3",
+      "enc": "assets/Buzzer Error.mp3.enc",
+      "sha256": "c73ef45bcad055264dfa629d270701ab2407d63a317ef08c6fca860dab6f64dc",
+      "size": 31997
+    },
+    {
+      "id": "bye-bye",
+      "name": "Bye Bye",
+      "kind": "video",
+      "file": "Bye Bye.webm",
+      "enc": "assets/Bye Bye.webm.enc",
+      "sha256": "f6219127494624fce64bcbc298b4d9ac0b7d598b8d9bc504b7da41e6b5ecabfc",
+      "size": 2295976,
+      "preview": "Bye Bye.preview.webp",
+      "previewEnc": "assets/Bye Bye.preview.webp.enc",
+      "previewSha256": "17cc4a98fcce020e9805f392b96e14adab568d595b7f77c54abbf34fbdf2c853"
+    },
+    {
+      "id": "cartoon-male-yeah",
+      "name": "Cartoon Male Yeah",
+      "kind": "sound",
+      "file": "Cartoon Male Yeah.mp3",
+      "enc": "assets/Cartoon Male Yeah.mp3.enc",
+      "sha256": "a7cb1d9abcd93d9b41467e4bd00f26f19fab1700faac4b66d6314c1a5dda0ed5",
+      "size": 33390
+    },
+    {
+      "id": "cartoon-organ-march-ascend",
+      "name": "Cartoon Organ March Ascend",
+      "kind": "sound",
+      "file": "Cartoon Organ March Ascend.mp3",
+      "enc": "assets/Cartoon Organ March Ascend.mp3.enc",
+      "sha256": "07cc6ed3562e4205486118bc52e0a9284fd8d65dbd26707ced252910f9a149bf",
+      "size": 115408
+    },
+    {
+      "id": "cartoon-pop-up-2",
+      "name": "Cartoon Pop Up 2",
+      "kind": "sound",
+      "file": "Cartoon Pop Up 2.mp3",
+      "enc": "assets/Cartoon Pop Up 2.mp3.enc",
+      "sha256": "a7d39fe952c97155cd15ef1cc7de5dabf77dc1902be01705339dc4d14ccbc9e4",
+      "size": 28210
+    },
+    {
+      "id": "cartoon-voice-male-goofy-wah-hoo-goofy",
+      "name": "Cartoon Voice Male Goofy Wah Hoo Goofy",
+      "kind": "sound",
+      "file": "Cartoon Voice Male Goofy Wah Hoo Goofy.mp3",
+      "enc": "assets/Cartoon Voice Male Goofy Wah Hoo Goofy.mp3.enc",
+      "sha256": "20a37a356fbaa4e2e8f395ba63d166ec44979f2153770844d13d2c0111ed1f03",
+      "size": 42141
+    },
+    {
+      "id": "cartoon-whistling-snoring-looping",
+      "name": "Cartoon Whistling Snoring Looping",
+      "kind": "sound",
+      "file": "Cartoon Whistling Snoring - Looping.mp3",
+      "enc": "assets/Cartoon Whistling Snoring - Looping.mp3.enc",
+      "sha256": "cec409e827457c2636c5ddbfd421749e9876d823cccba8de44682127b114ffe0",
+      "size": 297251
+    },
+    {
+      "id": "cartoon-yuppie-shout",
+      "name": "Cartoon Yuppie Shout",
+      "kind": "sound",
+      "file": "Cartoon Yuppie Shout.mp3",
+      "enc": "assets/Cartoon Yuppie Shout.mp3.enc",
+      "sha256": "8c104dc16730bc4751ca9e5457b056c70a38ddfb9b4437aa21c3383ed0883828",
+      "size": 26248
+    },
+    {
+      "id": "cinematic-dramatic-documentary-action-suspense",
+      "name": "Cinematic Dramatic Documentary Action Suspense",
+      "kind": "sound",
+      "file": "Cinematic Dramatic Documentary Action Suspense.mp3",
+      "enc": "assets/Cinematic Dramatic Documentary Action Suspense.mp3.enc",
+      "sha256": "dc56cd78a99ed1fe01d02e72a8381a60e3efb58199f7153a31244f709a82e6d0",
+      "size": 905882
+    },
+    {
+      "id": "city-night-crickets-cars",
+      "name": "City Night Crickets Cars",
+      "kind": "sound",
+      "file": "City Night Crickets Cars.mp3",
+      "enc": "assets/City Night Crickets Cars.mp3.enc",
+      "sha256": "8158932986b16ba4073d3217afdb00cc05dd2c4e5fed085d29a2e0071073a47b",
+      "size": 2732906
+    },
+    {
+      "id": "clock-ticking-tick-tock",
+      "name": "Clock Ticking Tick Tock",
+      "kind": "sound",
+      "file": "Clock Ticking Tick Tock.mp3",
+      "enc": "assets/Clock Ticking Tick Tock.mp3.enc",
+      "sha256": "c7dee4f90b9eba5691761bc25eb33c108b535135c2914d8da6294a104fe81c2b",
+      "size": 235783
+    },
+    {
+      "id": "come-and-get-your-love-redbone-subtitulado-al-espa-ol",
+      "name": "Come And Get Your Love Redbone subtitulado al español",
+      "kind": "sound",
+      "file": "Come And Get Your Love - Redbone  subtitulado al español.mp3",
+      "enc": "assets/Come And Get Your Love - Redbone  subtitulado al español.mp3.enc",
+      "sha256": "f929bab5d15737a9fb2dafb0efc74713df53fbbc70e109419e6ce604954709b3",
+      "size": 4965769
+    },
+    {
+      "id": "comedy-background-detective-cartoon",
+      "name": "Comedy Background Detective Cartoon",
+      "kind": "sound",
+      "file": "Comedy Background Detective Cartoon.mp3",
+      "enc": "assets/Comedy Background Detective Cartoon.mp3.enc",
+      "sha256": "4e78650c30ec9a0358b76fe2bfd0b22f822eda2896d881d9e9ee6ff686a105af",
+      "size": 2318880
+    },
+    {
+      "id": "dark-ambient-suspense-tension",
+      "name": "Dark Ambient Suspense Tension",
+      "kind": "sound",
+      "file": "Dark Ambient Suspense Tension.mp3",
+      "enc": "assets/Dark Ambient Suspense Tension.mp3.enc",
+      "sha256": "042a8c38257c3ea209fa19041eddc87b3f421b2ebcd3ab22cf52ccdfa879844e",
+      "size": 1681106
+    },
+    {
+      "id": "disturbing-events-looping",
+      "name": "Disturbing Events (Looping)",
+      "kind": "sound",
+      "file": "Disturbing Events (Looping).mp3",
+      "enc": "assets/Disturbing Events (Looping).mp3.enc",
+      "sha256": "a3334eb3cdb79f52885c9137af96f851f3b4d681c7f67871f3595ab5c2c90c97",
+      "size": 2814772
+    },
+    {
+      "id": "drums-burlesque-2",
+      "name": "Drums, burlesque 2",
+      "kind": "sound",
+      "file": "Drums, burlesque 2.mp3",
+      "enc": "assets/Drums, burlesque 2.mp3.enc",
+      "sha256": "dadf2034b8a8c8dc6fc3a1f0720cdc1eb9453d3a2816a5af5e23107cd3ceab3a",
+      "size": 74247
+    },
+    {
+      "id": "epic-hybrid-cinematic-dubstep",
+      "name": "Epic Hybrid Cinematic Dubstep",
+      "kind": "sound",
+      "file": "Epic Hybrid Cinematic Dubstep.mp3",
+      "enc": "assets/Epic Hybrid Cinematic Dubstep.mp3.enc",
+      "sha256": "e98ab434e558284ac7b4fd37ed8bb67915f5885eb4ebcfb4692232031939c27f",
+      "size": 3087700
+    },
+    {
+      "id": "error",
+      "name": "error",
+      "kind": "sound",
+      "file": "error.mp3",
+      "enc": "assets/error.mp3.enc",
+      "sha256": "65b518ded6d01ed2a5001e98482d43573d4b1188a52ac1bd0f9aacc93207f839",
+      "size": 447950
+    },
+    {
+      "id": "fart",
+      "name": "Fart",
+      "kind": "sound",
+      "file": "Fart.mp3",
+      "enc": "assets/Fart.mp3.enc",
+      "sha256": "92089a7b7bc6c85d9f2e3aee00f89d22e984f42b7f56d2029ef79e8067e42c20",
+      "size": 8719
+    },
+    {
+      "id": "good-job",
+      "name": "Good Job",
+      "kind": "video",
+      "file": "Good Job.webm",
+      "enc": "assets/Good Job.webm.enc",
+      "sha256": "ae7bff1594d9c0ec2c8ee4a5627c7771f1c2f20745fab3390c181341363b8e65",
+      "size": 916222,
+      "preview": "Good Job.preview.webp",
+      "previewEnc": "assets/Good Job.preview.webp.enc",
+      "previewSha256": "bff8ff6616125d05968c1bab26cda7eda0b9090c3fe315292ff2f2b9ea5d6ddc"
+    },
+    {
+      "id": "green-screen-anime-powers-video-effects-hd-pack-video-effects-green-screen",
+      "name": "Green Screen Anime Powers Video Effects (HD) Pack Video Effects Green Screen",
+      "kind": "video",
+      "file": "Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.webm",
+      "enc": "assets/Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.webm.enc",
+      "sha256": "998cf2ebec8aa07a871cf3f8cb48c4180800d36d15d3157a15816acda6c9da57",
+      "size": 2852203,
+      "preview": "Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.preview.webp",
+      "previewEnc": "assets/Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.preview.webp.enc",
+      "previewSha256": "d3eb25edb8292239ac0ec5f684cff6c0409604e1e6306f91b11c400178f3492b"
+    },
+    {
+      "id": "helicopter-propeller",
+      "name": "Helicopter Propeller",
+      "kind": "sound",
+      "file": "Helicopter Propeller.mp3",
+      "enc": "assets/Helicopter Propeller.mp3.enc",
+      "sha256": "f1a71d507dc5952ecd3f94629b46d67619c1688ecea154d04681a16384e6a961",
+      "size": 417904
+    },
+    {
+      "id": "hi-5",
+      "name": "Hi 5",
+      "kind": "video",
+      "file": "Hi 5.webm",
+      "enc": "assets/Hi 5.webm.enc",
+      "sha256": "563e45ee1661beee259dfb32906fe27477e77c05ea6b32e4aa76e65a8ead48ab",
+      "size": 1886482,
+      "preview": "Hi 5.preview.webp",
+      "previewEnc": "assets/Hi 5.preview.webp.enc",
+      "previewSha256": "7f6cd814b03899816f1908c4f7575d4a4536efe8f5d4d80a4dc111a2eee26e0f"
+    },
+    {
+      "id": "hola-confeti",
+      "name": "Hola confeti",
+      "kind": "video",
+      "file": "Hola confeti.webm",
+      "enc": "assets/Hola confeti.webm.enc",
+      "sha256": "1d335b82badfb9719e9656c02f7556b8cde35b1a3f9dcf7cd149605f12bb4e3a",
+      "size": 6055688,
+      "preview": "Hola confeti.preview.webp",
+      "previewEnc": "assets/Hola confeti.preview.webp.enc",
+      "previewSha256": "7e9c1a835f158296f09c9099ed0ae73af6491af249dceced56123debae256803"
+    },
+    {
+      "id": "intensive-clapping-50-people",
+      "name": "Intensive Clapping 50 People",
+      "kind": "sound",
+      "file": "Intensive Clapping - 50 People.mp3",
+      "enc": "assets/Intensive Clapping - 50 People.mp3.enc",
+      "sha256": "905b3ba74d73d7038f890e122247337cb81d85217b830384273e1cbd62792121",
+      "size": 235597
+    },
+    {
+      "id": "intro-journey",
+      "name": "intro journey",
+      "kind": "sound",
+      "file": "intro journey.mp3",
+      "enc": "assets/intro journey.mp3.enc",
+      "sha256": "0eae05feb33a239855adfc71f87275a71b3a8ea8fe55993eb93cf196c79545f9",
+      "size": 404910
+    },
+    {
+      "id": "is-this-enough-for-you",
+      "name": "Is This Enough For You",
+      "kind": "sound",
+      "file": "Is This Enough For You.mp3",
+      "enc": "assets/Is This Enough For You.mp3.enc",
+      "sha256": "f09c3b54d979bf9aaed9c90c229216c9e25ea3e7fbaae8fd967f7a2e1a1cd76f",
+      "size": 2704299
+    },
+    {
+      "id": "mysterious-harp-and-gong-spells",
+      "name": "Mysterious Harp And Gong Spells",
+      "kind": "sound",
+      "file": "Mysterious Harp And Gong Spells.mp3",
+      "enc": "assets/Mysterious Harp And Gong Spells.mp3.enc",
+      "sha256": "f22e7fb058bc4039ea5dd8b55a2f5043b9693c06481c30c33d9b369c060f0c54",
+      "size": 110486
+    },
+    {
+      "id": "pulsating-fury-instrumental",
+      "name": "Pulsating Fury Instrumental",
+      "kind": "sound",
+      "file": "Pulsating Fury Instrumental.mp3",
+      "enc": "assets/Pulsating Fury Instrumental.mp3.enc",
+      "sha256": "b44885229c1af1d6461f4176dc578a409c9e49e3403e933002fdc5d25e8ebb35",
+      "size": 3902930
+    },
+    {
+      "id": "radio-impact-crescendo-burst-dark",
+      "name": "Radio Impact Crescendo Burst Dark",
+      "kind": "sound",
+      "file": "Radio Impact Crescendo Burst Dark.mp3",
+      "enc": "assets/Radio Impact Crescendo Burst Dark.mp3.enc",
+      "sha256": "2bc48812a837a587f4a6bbd553483c60c50bca345521461d603fe9be586f5453",
+      "size": 62045
+    },
+    {
+      "id": "red-hot-love-no-lyric-vocal",
+      "name": "Red Hot Love No Lyric Vocal",
+      "kind": "sound",
+      "file": "Red Hot Love - No Lyric Vocal.mp3",
+      "enc": "assets/Red Hot Love - No Lyric Vocal.mp3.enc",
+      "sha256": "315ab15d5c4421f1fa6a258a13180539d462d0f23a6097cd8f1620b99c5b0513",
+      "size": 3123361
+    },
+    {
+      "id": "reggae-is-the-answer-instrumental",
+      "name": "Reggae Is The Answer (Instrumental)",
+      "kind": "sound",
+      "file": "Reggae Is The Answer (Instrumental).mp3",
+      "enc": "assets/Reggae Is The Answer (Instrumental).mp3.enc",
+      "sha256": "37870ca37183fc48cbec5aef17fb025e38cd8a5e18952bbbe9fa549c91965698",
+      "size": 3028617
+    },
+    {
+      "id": "road-rock-instrumental",
+      "name": "Road Rock [Instrumental]",
+      "kind": "sound",
+      "file": "Road Rock [Instrumental].mp3",
+      "enc": "assets/Road Rock [Instrumental].mp3.enc",
+      "sha256": "12d170bf78ae7df73024044e27eb9b45ef2369052863e0016a1a96559d4bf793",
+      "size": 3641209
+    },
+    {
+      "id": "road-to-the-adventure-instrumental",
+      "name": "Road To The Adventure (Instrumental)",
+      "kind": "sound",
+      "file": "Road To The Adventure (Instrumental).mp3",
+      "enc": "assets/Road To The Adventure (Instrumental).mp3.enc",
+      "sha256": "90a9563dd36c600b9287be1066786523f7b3c8ad602a9ca8b3d01834bb875406",
+      "size": 4089949
+    },
+    {
+      "id": "round-1",
+      "name": "round 1",
+      "kind": "sound",
+      "file": "round 1.mp3",
+      "enc": "assets/round 1.mp3.enc",
+      "sha256": "30ec198e70caa4ec76c68cfa72ab8c62e3917e659bca5251bb0ad7ac09b988fd",
+      "size": 86827
+    },
+    {
+      "id": "running-through-uptown-no-vocals-or-adlibs",
+      "name": "Running Through Uptown (No Vocals or Adlibs)",
+      "kind": "sound",
+      "file": "Running Through Uptown (No Vocals or Adlibs).mp3",
+      "enc": "assets/Running Through Uptown (No Vocals or Adlibs).mp3.enc",
+      "sha256": "755264cdcbedd9fcd78fa41aeed824862c19bb304671f16a3959bde324eed39a",
+      "size": 3246697
+    },
+    {
+      "id": "slow-motion-instrumental",
+      "name": "Slow Motion (Instrumental)",
+      "kind": "sound",
+      "file": "Slow Motion (Instrumental).mp3",
+      "enc": "assets/Slow Motion (Instrumental).mp3.enc",
+      "sha256": "3368640de8da10fbd3e7774ee74e5f51dac020ef3b6a329c44e8a307ab2c0a3e",
+      "size": 4086741
+    },
+    {
+      "id": "thumbs-up",
+      "name": "Thumbs up",
+      "kind": "video",
+      "file": "Thumbs up.webm",
+      "enc": "assets/Thumbs up.webm.enc",
+      "sha256": "c7f675946c064a5b1735053be8e6d897ea043af11f7b3d7e873be262b3a5b1f2",
+      "size": 519797,
+      "preview": "Thumbs up.preview.webp",
+      "previewEnc": "assets/Thumbs up.preview.webp.enc",
+      "previewSha256": "af0729913ad4e44b71a0840cf289a3c9478df13c06e305aaa21b1f2eb6f85d22"
+    },
+    {
+      "id": "we-will-rock-you",
+      "name": "we will rock you",
+      "kind": "sound",
+      "file": "we will rock you.mp3",
+      "enc": "assets/we will rock you.mp3.enc",
+      "sha256": "11caa717187f87542be85943ac8909899945eac021d225a5fec85fc37332c745",
+      "size": 1131426
+    },
+    {
+      "id": "you-are-so-fast",
+      "name": "you are so fast",
+      "kind": "video",
+      "file": "you are so fast.webm",
+      "enc": "assets/you are so fast.webm.enc",
+      "sha256": "f2baaf9902702051d828ad05cd5e04580afb27000641e55d73f7304167b1bbe5",
+      "size": 9486344,
+      "preview": "you are so fast.preview.webp",
+      "previewEnc": "assets/you are so fast.preview.webp.enc",
+      "previewSha256": "f570307d5c3948e194323db0712e9f1c24bb55871ed435db77f405d832376530"
+    },
+    {
+      "id": "you-win-green-screen-1",
+      "name": "you win green screen 1",
+      "kind": "video",
+      "file": "you win green screen_1.webm",
+      "enc": "assets/you win green screen_1.webm.enc",
+      "sha256": "aa40babffed5ab7846f11407c3e17ec102e3b47abcc532d1d98307f4b7ff6c25",
+      "size": 8954077,
+      "preview": "you win green screen_1.preview.webp",
+      "previewEnc": "assets/you win green screen_1.preview.webp.enc",
+      "previewSha256": "bd3da7c0537ac10c84f9cf822b701809f6e05d1e79b01de2a4b96fc6fe0632b1"
+    }
+  ]
+}
