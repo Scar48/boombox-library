@@ -1,7 +1,7 @@
 {
-  "version": 3,
+  "version": 4,
   "asset_key_id": "k1",
-  "generated_at": "2026-07-16T18:50:21.869Z",
+  "generated_at": "2026-07-17T01:54:46.187Z",
   "assets": [
     {
       "id": "aplausos",
@@ -9,11 +9,11 @@
       "kind": "video",
       "file": "Aplausos.webm",
       "enc": "assets/Aplausos.webm.enc",
-      "sha256": "e14f70814daa43765533bbced7f28f3baf8308410351b7248bf602180cc6085a",
+      "sha256": "36098a6739fa0a8f732f52d013cbff1e4e35f246e943b47bc4c41e89b0e65e85",
       "size": 1669769,
       "preview": "Aplausos.preview.webp",
       "previewEnc": "assets/Aplausos.preview.webp.enc",
-      "previewSha256": "0235bd54f588157608a6ea4d06f88ddcfba803cc97123c89ac7c9abd191e2824"
+      "previewSha256": "601c74afce687274fa12f3254e410331ee231d5792027d5299c2182b1ace9855"
     },
     {
       "id": "big-cartoon-tremolo-jump",
@@ -21,7 +21,7 @@
       "kind": "sound",
       "file": "Big Cartoon Tremolo Jump.mp3",
       "enc": "assets/Big Cartoon Tremolo Jump.mp3.enc",
-      "sha256": "3e9a8b96d985557bcfcf80e7781f162ec3ac8441e809c1f0e7ca1a88b1f800ab",
+      "sha256": "dea81ee336b4c3f8916c232e05c2ff4ba48f0d40a8a3115bafddcf179135a1fa",
       "size": 142659
     },
     {
@@ -30,11 +30,11 @@
       "kind": "video",
       "file": "Bomba de tiempo.webm",
       "enc": "assets/Bomba de tiempo.webm.enc",
-      "sha256": "ba9d6c7eb26cc5a8feb83fe1712439c9b3ef2feeb338e910585245619a19f8ef",
+      "sha256": "9bc8766846893732a7d3637bf2b4165f8740c5ac3f94cf4fc8ac95729ae0ae3b",
       "size": 1876431,
       "preview": "Bomba de tiempo.preview.webp",
       "previewEnc": "assets/Bomba de tiempo.preview.webp.enc",
-      "previewSha256": "af486a6719e72583b38bad88159849d15c9c73a80dc24ab65536d33679c0b1c5"
+      "previewSha256": "87413f07b53bf3989db7d4ad6c87160b11929a96235777e095b36c6cf1ac8879"
     },
     {
       "id": "buzzer-error",
@@ -42,7 +42,7 @@
       "kind": "sound",
       "file": "Buzzer Error.mp3",
       "enc": "assets/Buzzer Error.mp3.enc",
-      "sha256": "6b850eed2129faee9363885d40221239370f14f15a1e76499a644c03fb4ec32b",
+      "sha256": "ba11457b989bd935093f483068a4efea2298b79359fc187e9449c4bd737b5c91",
       "size": 31997
     },
     {
@@ -51,11 +51,11 @@
       "kind": "video",
       "file": "Bye Bye.webm",
       "enc": "assets/Bye Bye.webm.enc",
-      "sha256": "e9b77f79b2bffd4df4903110232de5552a64b3619c70e6783b66906d286e8a97",
+      "sha256": "ee1d2005e9552a77a7ce8d578a2baf366becac977478f407195789e5131fa7ed",
       "size": 2295976,
       "preview": "Bye Bye.preview.webp",
       "previewEnc": "assets/Bye Bye.preview.webp.enc",
-      "previewSha256": "48ad5b36ccb2da702786ee12b4d1b2cd5f2bb7b788184ce43cecdf31457e030e"
+      "previewSha256": "9b125cf0ff349e4481dd90a0a888c62dcb99e9e7503d2516a7d820a88c42e6a1"
     },
     {
       "id": "cartoon-male-yeah",
@@ -63,7 +63,7 @@
       "kind": "sound",
       "file": "Cartoon Male Yeah.mp3",
       "enc": "assets/Cartoon Male Yeah.mp3.enc",
-      "sha256": "ec012b54c4656e654079096131510b792324fcc387315f456b70a9f0a098cc0a",
+      "sha256": "565b67c564a9bdaaee860c9e3a55e42683609388cb838917898ccf7fbbf88f01",
       "size": 33390
     },
     {
@@ -72,7 +72,7 @@
       "kind": "sound",
       "file": "Cartoon Organ March Ascend.mp3",
       "enc": "assets/Cartoon Organ March Ascend.mp3.enc",
-      "sha256": "76d88683745291d41054008172da148c989295961b854e6befd07a9d07c7d5af",
+      "sha256": "16fb1b579fd2fd0aef5cce556d6813a3aa3437323e9b9b1babeffce2b7f65ff2",
       "size": 115408
     },
     {
@@ -81,7 +81,7 @@
       "kind": "sound",
       "file": "Cartoon Pop Up 2.mp3",
       "enc": "assets/Cartoon Pop Up 2.mp3.enc",
-      "sha256": "3b019845cabf84c4d288af3e51e546d02fee819ba46b09cf8b940d10304c0e7b",
+      "sha256": "0be25774364482b4472d1abfdbc8fadc62c6d0c72ab5bfcaf9cfb7c1f33d8366",
       "size": 28210
     },
     {
@@ -90,7 +90,7 @@
       "kind": "sound",
       "file": "Cartoon Voice Male Goofy Wah Hoo Goofy.mp3",
       "enc": "assets/Cartoon Voice Male Goofy Wah Hoo Goofy.mp3.enc",
-      "sha256": "69010c30416b146a8373c1783f6b8dad28d858643f0d9051fb200e043312384b",
+      "sha256": "c864753e50d9a5a2da4bc1a029854fc1424fc33012e69ed59579f2c07e786fa0",
       "size": 42141
     },
     {
@@ -99,7 +99,7 @@
       "kind": "sound",
       "file": "Cartoon Whistling Snoring - Looping.mp3",
       "enc": "assets/Cartoon Whistling Snoring - Looping.mp3.enc",
-      "sha256": "08b4ff411c8deac9e49d5a61864aa64685d5b2692ed69d55dc782fabc7b0fd21",
+      "sha256": "838b046857934452d00575246338bc6dcc3ed26b6ba43ae280d9eb607d2ee236",
       "size": 297251
     },
     {
@@ -108,7 +108,7 @@
       "kind": "sound",
       "file": "Cartoon Yuppie Shout.mp3",
       "enc": "assets/Cartoon Yuppie Shout.mp3.enc",
-      "sha256": "9f5d2fcb0f26f444f0a036c11c34076d789b2a051bc79f027f5a0b81bfe2abe2",
+      "sha256": "6ab1087a21abce9885a672ded1aeb2f236a7780ea9eb5ba09421c97d66b9c9b3",
       "size": 26248
     },
     {
@@ -117,7 +117,7 @@
       "kind": "sound",
       "file": "Cinematic Dramatic Documentary Action Suspense.mp3",
       "enc": "assets/Cinematic Dramatic Documentary Action Suspense.mp3.enc",
-      "sha256": "791b6d4f7d9502875bd46ba5a18290e562a4b386dd029a82d0050753fef3be8d",
+      "sha256": "07ec2a0be19c4a8d652f80786c3ccf802710c577f789f27c18b8414d485402b7",
       "size": 905882
     },
     {
@@ -126,7 +126,7 @@
       "kind": "sound",
       "file": "City Night Crickets Cars.mp3",
       "enc": "assets/City Night Crickets Cars.mp3.enc",
-      "sha256": "6963da3151b5305f0b0057c73bae4745f9d169d972b153084ff1dfb887bc2106",
+      "sha256": "773376cc278152663bb66da0000076009476e6298cc3f7ef2256d92b3988e911",
       "size": 2732906
     },
     {
@@ -135,7 +135,7 @@
       "kind": "sound",
       "file": "Clock Ticking Tick Tock.mp3",
       "enc": "assets/Clock Ticking Tick Tock.mp3.enc",
-      "sha256": "019b3971c463ae66a4f91977822a112b3318b9ebe810cd68fd399203d766a981",
+      "sha256": "b9b5f0213d40d27fce06d1a68875c95eb54a066cafc2cfd80b0cbca14ff5d753",
       "size": 235783
     },
     {
@@ -144,7 +144,7 @@
       "kind": "sound",
       "file": "Come And Get Your Love - Redbone  subtitulado al español.mp3",
       "enc": "assets/Come And Get Your Love - Redbone  subtitulado al español.mp3.enc",
-      "sha256": "5561535d03bc641b5e4cbcf011901314372486ed2a1dc2ee0fc61e81e93e7b85",
+      "sha256": "3faf3cc7f7fc3312a8cfc7892b7b88482d2a77abd563a1d2128107bbb7be26c2",
       "size": 4965769
     },
     {
@@ -153,7 +153,7 @@
       "kind": "sound",
       "file": "Comedy Background Detective Cartoon.mp3",
       "enc": "assets/Comedy Background Detective Cartoon.mp3.enc",
-      "sha256": "f4ae6fea3bf09bf304d0387d6cd73e1ac8563dc103b370a6454c2c388621e18c",
+      "sha256": "3a0c59323ac2c71873c0f66a3c256c1a647b4f3a863ba506ee8b7edb5b1b9f97",
       "size": 2318880
     },
     {
@@ -162,7 +162,7 @@
       "kind": "sound",
       "file": "Dark Ambient Suspense Tension.mp3",
       "enc": "assets/Dark Ambient Suspense Tension.mp3.enc",
-      "sha256": "64b05e02c037341906e9b5fa3e22aa7b02041393ad19ee573fa20304a7817519",
+      "sha256": "929cf163e119836b1040887a162daf1b005c24768550fe68d28a535eb6792863",
       "size": 1681106
     },
     {
@@ -171,7 +171,7 @@
       "kind": "sound",
       "file": "dinero.mp3",
       "enc": "assets/dinero.mp3.enc",
-      "sha256": "4a676fd321bfca17096407bbfdadc62e7ad60479debb0feca1f1d3b36ebcc04f",
+      "sha256": "5387f7acabd463ada527df10f6ab3c954fa20c5670a768d0e6433a15d587460f",
       "size": 129771
     },
     {
@@ -180,7 +180,7 @@
       "kind": "sound",
       "file": "Disturbing Events (Looping).mp3",
       "enc": "assets/Disturbing Events (Looping).mp3.enc",
-      "sha256": "299d7bc9065f92573a56a4340ba12b18459ec3c45b8624cd95b6fa9f777dd659",
+      "sha256": "9aeabc87e1cb86ef98deea9067c7f2711b060bf79b61e3adb74c6f77e9ab0d22",
       "size": 2814772
     },
     {
@@ -189,7 +189,7 @@
       "kind": "sound",
       "file": "Drums, burlesque 2.mp3",
       "enc": "assets/Drums, burlesque 2.mp3.enc",
-      "sha256": "28677dc006071e0e70e8bf4010adbacba4f9237ec7c849d87da6d21d9629a6ce",
+      "sha256": "844faa6634eb4d1260906736827304c4154a2bd5541577e3527158346fd53672",
       "size": 74247
     },
     {
@@ -198,7 +198,7 @@
       "kind": "sound",
       "file": "Epic Hybrid Cinematic Dubstep.mp3",
       "enc": "assets/Epic Hybrid Cinematic Dubstep.mp3.enc",
-      "sha256": "42aa39cf208ee123d4279dc54a2ed4aba2e05fc973a14f47b90384325f8bbd1c",
+      "sha256": "7d0e1cc2d13e03bf89c737111cf7212ee2c14e9336e2a07189ef87d04e0e089c",
       "size": 3087700
     },
     {
@@ -207,7 +207,7 @@
       "kind": "sound",
       "file": "error.mp3",
       "enc": "assets/error.mp3.enc",
-      "sha256": "d074713e1f9735ac774330d75d1ea2f3609d11dadf01407b67be3efaaa3b6d22",
+      "sha256": "5b27b3d5538970f2a7dd92ce14f088428e283d2d1486bc8c3a6b00865a2ba5d6",
       "size": 447950
     },
     {
@@ -216,7 +216,7 @@
       "kind": "sound",
       "file": "Fart.mp3",
       "enc": "assets/Fart.mp3.enc",
-      "sha256": "45e4c23b762b56e3094f59bb321ddda615a06284ac38d98f614fddc6ca432aad",
+      "sha256": "3922c3bda105917f1cb3f01c4448d119b58aaf7a757da1b348d819c156c9ae27",
       "size": 8719
     },
     {
@@ -225,11 +225,11 @@
       "kind": "video",
       "file": "Good Job.webm",
       "enc": "assets/Good Job.webm.enc",
-      "sha256": "8f7de795cfe9ce99ff2a5a4ed2c19ada1729e2efa20f069e54d8d794dd202e71",
+      "sha256": "5798fc07d4f70ffca481778d3b626b4453513753154bde58e7d4337b075eefdd",
       "size": 916222,
       "preview": "Good Job.preview.webp",
       "previewEnc": "assets/Good Job.preview.webp.enc",
-      "previewSha256": "c35df124555f61ed066d7dac90c6e036db9413919a5b341a32f50c2fdddf4a55"
+      "previewSha256": "399186e6987e4d3a2fedcc1e6f7553f0f66e097da0c4f9441ceacad1a9370bb5"
     },
     {
       "id": "green-screen-anime-powers-video-effects-hd-pack-video-effects-green-screen",
@@ -237,11 +237,11 @@
       "kind": "video",
       "file": "Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.webm",
       "enc": "assets/Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.webm.enc",
-      "sha256": "7cfd8b5014998c0cd9e7d46c6b3f6f697b2128916f59861c7eb3021286e65edf",
+      "sha256": "e7f7d46bb652914d20195bae55726f0f3771a26b76998810c27b516f3807a748",
       "size": 2852203,
       "preview": "Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.preview.webp",
       "previewEnc": "assets/Green Screen Anime Powers Video Effects (HD) Pack _ Video Effects Green Screen.preview.webp.enc",
-      "previewSha256": "722921252896bc622b213cf4b0ff5db4e54d9cea64977abe0d2900a2c796907f"
+      "previewSha256": "25a43cf62603e7ff56a45e1b9fa6f9a98fee4111491dd58a0a8b8bb1ca13a154"
     },
     {
       "id": "helicopter-propeller",
@@ -249,7 +249,7 @@
       "kind": "sound",
       "file": "Helicopter Propeller.mp3",
       "enc": "assets/Helicopter Propeller.mp3.enc",
-      "sha256": "9070f3eb99fc323062c17c94dc461d3aac942513c7a7a77369256e1251a98694",
+      "sha256": "74dc5bfc3552c88ecd4052f798ffbf67c3ae3d929cc5dcf7cb1d9ad363b939fd",
       "size": 417904
     },
     {
@@ -258,11 +258,11 @@
       "kind": "video",
       "file": "Hi 5.webm",
       "enc": "assets/Hi 5.webm.enc",
-      "sha256": "9e96545467e2f1072aa1180d9218d1a13d241dda2e9b97417a742ccf877c4b63",
+      "sha256": "4ea0df1fd79b3c114a9dbc1a10419fb321afae9b04e4a8cf448d0b403323e4a8",
       "size": 1886482,
       "preview": "Hi 5.preview.webp",
       "previewEnc": "assets/Hi 5.preview.webp.enc",
-      "previewSha256": "75239351d263e6ed49ec5bbbb2f733dd188da2a5cd7848d40401c18e1543aaef"
+      "previewSha256": "a66204d4f83cf641c6ba1a4d89c64a9220d2b60db464ae25edf4d3b64e19a140"
     },
     {
       "id": "hola-confeti",
@@ -270,11 +270,11 @@
       "kind": "video",
       "file": "Hola confeti.webm",
       "enc": "assets/Hola confeti.webm.enc",
-      "sha256": "839e4e826d66778dfeee54f9ca30ad884da11201d8b4d2fde65aca071a02d9c1",
+      "sha256": "47612a7f08650a80aa9b263abd847d8f2d432a2be05127bf951f008c502e8ca4",
       "size": 6055688,
       "preview": "Hola confeti.preview.webp",
       "previewEnc": "assets/Hola confeti.preview.webp.enc",
-      "previewSha256": "c16266557d875edcee9f199172db2ca314c2ca3e5e6a62bf1b18ae409a8f6a20"
+      "previewSha256": "1689fc17e96dc539eb24dcb6723ce082c6f152baac840ddbbcb2a04d9a234edd"
     },
     {
       "id": "intensive-clapping-50-people",
@@ -282,7 +282,7 @@
       "kind": "sound",
       "file": "Intensive Clapping - 50 People.mp3",
       "enc": "assets/Intensive Clapping - 50 People.mp3.enc",
-      "sha256": "058b410492fa3aa9ccbfa3d3e48630e809ec810b35975a0f7667cb07290e9d53",
+      "sha256": "e79ce5b3808135df80ccc3bc861a06f0db53493ab0a048de17245ff9bd95aa73",
       "size": 235597
     },
     {
@@ -291,7 +291,7 @@
       "kind": "sound",
       "file": "intro journey.mp3",
       "enc": "assets/intro journey.mp3.enc",
-      "sha256": "fb291bdf2cd430cf04cdc50c834834f2755e6c8f6a0848330301f3f34682b0b9",
+      "sha256": "113272e5d7ff869d23b4c4b07bb5f08bede191ca112d1e00c3ad0f95f63896d0",
       "size": 404910
     },
     {
@@ -300,7 +300,7 @@
       "kind": "sound",
       "file": "Is This Enough For You.mp3",
       "enc": "assets/Is This Enough For You.mp3.enc",
-      "sha256": "e9ec92f5e8bb7818b8641bab99f25be3dac6624547605b5178cf1a49c38581fb",
+      "sha256": "b45ccad0541faa95ea4cba91c8dfb224bbee63f02369099fd9a43e370692375f",
       "size": 2704299
     },
     {
@@ -309,7 +309,7 @@
       "kind": "lottie",
       "file": "Money.json",
       "enc": "assets/Money.json.enc",
-      "sha256": "5f563720a7f75ef2b278bffc1209087d5a13f0b93f829765c2ae3961abd2180e",
+      "sha256": "86ba0f08de220a9ba8c48362f2a5f5617817dfb29e6f3391cf63222a5b0209b6",
       "size": 12139,
       "sound": "dinero.mp3"
     },
@@ -319,7 +319,7 @@
       "kind": "sound",
       "file": "Mysterious Harp And Gong Spells.mp3",
       "enc": "assets/Mysterious Harp And Gong Spells.mp3.enc",
-      "sha256": "00b3029d370cc5a11f0ee70ed05c817a0b93bceb5eb5a94861f49de3399382cd",
+      "sha256": "9af35f778caa3110f1e41f85ff60002b79ca5990c97aa8be19ae61748f48e873",
       "size": 110486
     },
     {
@@ -328,7 +328,7 @@
       "kind": "sound",
       "file": "Pulsating Fury Instrumental.mp3",
       "enc": "assets/Pulsating Fury Instrumental.mp3.enc",
-      "sha256": "08966b076662385abe3181dd9369e509c902e2924a72b8a94768c01ffd6eb485",
+      "sha256": "ecf6fc7573ace6bdb8228be9ac1be5e33369c29856e64be0bc79487aefa5a7bb",
       "size": 3902930
     },
     {
@@ -337,7 +337,7 @@
       "kind": "sound",
       "file": "Radio Impact Crescendo Burst Dark.mp3",
       "enc": "assets/Radio Impact Crescendo Burst Dark.mp3.enc",
-      "sha256": "c2af5eb6b172514e478da7d1914adf78649d9205dfff4131152c0af45261a8f5",
+      "sha256": "bb79f05208dfa3106acab9ff7a09cd1cb056ebfa5cc048ec0588b7f0a0e17b25",
       "size": 62045
     },
     {
@@ -346,7 +346,7 @@
       "kind": "sound",
       "file": "Red Hot Love - No Lyric Vocal.mp3",
       "enc": "assets/Red Hot Love - No Lyric Vocal.mp3.enc",
-      "sha256": "f28650f104e3a0b04c433a8484546188dda33dcab0906549daf96829358b1acc",
+      "sha256": "e7153df211bc7a48b48724cc1df785875342f47f0fa823acca71c49b88bdd3d7",
       "size": 3123361
     },
     {
@@ -355,7 +355,7 @@
       "kind": "sound",
       "file": "Reggae Is The Answer (Instrumental).mp3",
       "enc": "assets/Reggae Is The Answer (Instrumental).mp3.enc",
-      "sha256": "cfebf6f9f5729dd4f35120c1edcc1bbf0807cbfd8886a691e75e4d91c605f16e",
+      "sha256": "98a4eb58033449f06a7d0b0a2082ede45bc4177af97a58200f36b140bf46b932",
       "size": 3028617
     },
     {
@@ -364,7 +364,7 @@
       "kind": "sound",
       "file": "Road Rock [Instrumental].mp3",
       "enc": "assets/Road Rock [Instrumental].mp3.enc",
-      "sha256": "9ce1a4aa72a0824c92bcb15ee679ce31e109b45e994bd593ab4c16a340a0be1b",
+      "sha256": "eed5ca494ba5a25ca673ef462d14e1c6a5be5c05940b9899b3ce320a685e3cc8",
       "size": 3641209
     },
     {
@@ -373,7 +373,7 @@
       "kind": "sound",
       "file": "Road To The Adventure (Instrumental).mp3",
       "enc": "assets/Road To The Adventure (Instrumental).mp3.enc",
-      "sha256": "6ac3f919c30c7dbb996c0eedcb30a797b5d0a0c35db288d353bc8bbb0d076ba6",
+      "sha256": "58fc6d125aee33cd1bb14c69dc6a8a9984e76a0bedd7f36bf5caea552d1e8bd3",
       "size": 4089949
     },
     {
@@ -382,7 +382,7 @@
       "kind": "sound",
       "file": "round 1.mp3",
       "enc": "assets/round 1.mp3.enc",
-      "sha256": "f292d7de9684bc23884ade4ed6861dd11bf53b0343616a4a2c2dedea8fac2b08",
+      "sha256": "3984069b3edd4bbd7950b823be4e6da287b505f47d190abb110e1d2e08e50596",
       "size": 86827
     },
     {
@@ -391,7 +391,7 @@
       "kind": "sound",
       "file": "Running Through Uptown (No Vocals or Adlibs).mp3",
       "enc": "assets/Running Through Uptown (No Vocals or Adlibs).mp3.enc",
-      "sha256": "d536789d06b51e88ae3ff3e5c566f546b7e3f88111bd37323e69cb58930e412f",
+      "sha256": "9e739a6b038c41cd0e4dd57807535a44a917ed6b74c2f90c24c707af3a0d881c",
       "size": 3246697
     },
     {
@@ -400,7 +400,7 @@
       "kind": "sound",
       "file": "Slow Motion (Instrumental).mp3",
       "enc": "assets/Slow Motion (Instrumental).mp3.enc",
-      "sha256": "5e3636b1291be632ef541dfbac7675298cdb383ba3281574bd4fb366abe64026",
+      "sha256": "2c744177cf207d88f79288500dfce659a09baf1ab6e34f9743e693d7e77edf5b",
       "size": 4086741
     },
     {
@@ -409,11 +409,23 @@
       "kind": "video",
       "file": "Thumbs up.webm",
       "enc": "assets/Thumbs up.webm.enc",
-      "sha256": "d7e3aaf21b640d8c5b26e8331ae40e7005a2988a5543b9d698d0e0e7b6cf5af3",
+      "sha256": "58277d03fb71ddc266fc58cf54429ff9178fed4a03b42961ad528618bd891605",
       "size": 519797,
       "preview": "Thumbs up.preview.webp",
       "previewEnc": "assets/Thumbs up.preview.webp.enc",
-      "previewSha256": "ad8ac4c1430b42af262b2c34e9412f85f06c62b902c4952b2a10abe2e2d3b2a1"
+      "previewSha256": "b0eb4c3451694f3497b6901a5ce1a623889901e5b3f073c9f2b735675d4d9806"
+    },
+    {
+      "id": "we-intro",
+      "name": "we intro",
+      "kind": "video",
+      "file": "we-intro.mp4",
+      "enc": "assets/we-intro.mp4.enc",
+      "sha256": "ce911d61c3b68c5afce1e9412d1f7bce95bef3a6fff486bc15a6e5fd54244b22",
+      "size": 44523904,
+      "preview": "we-intro.preview.webp",
+      "previewEnc": "assets/we-intro.preview.webp.enc",
+      "previewSha256": "a8ebfdf5e7fb79025befba7ce834a197066c85f2c63f8161fddc2c38321518f4"
     },
     {
       "id": "we-will-rock-you",
@@ -421,7 +433,7 @@
       "kind": "sound",
       "file": "we will rock you.mp3",
       "enc": "assets/we will rock you.mp3.enc",
-      "sha256": "a1edf59434ba107a89246f4513bf59088bab4c24c718813883c3906f7175c461",
+      "sha256": "46948f5aa793c17f34ccff9baeb6b0f80fc998d7f5ec51a50617dd9bbc0c092f",
       "size": 1131426
     },
     {
@@ -430,11 +442,11 @@
       "kind": "video",
       "file": "you are so fast.webm",
       "enc": "assets/you are so fast.webm.enc",
-      "sha256": "31f42e9fcc290927ea2ee4e9f277f2aba93279921db9024e5188aaec10cfed2b",
+      "sha256": "7893ce79f5b41bfad0429660e03e9d3ef6532eb05221f0e88cc104a4ad625dee",
       "size": 9486344,
       "preview": "you are so fast.preview.webp",
       "previewEnc": "assets/you are so fast.preview.webp.enc",
-      "previewSha256": "13e937564def10d0830904454b9d49d88165cf19c6d67aff875e8a7f569b92dc"
+      "previewSha256": "db4d74b93437d736b30a722f85682e26e50526ce45eb152131ef12ddab3170cd"
     },
     {
       "id": "you-win-green-screen-1",
@@ -442,11 +454,11 @@
       "kind": "video",
       "file": "you win green screen_1.webm",
       "enc": "assets/you win green screen_1.webm.enc",
-      "sha256": "3ebf437fd06614c73514c3ae3f011315ee83b824543a173d790aa0427ab4ba61",
+      "sha256": "b0094408800458957e6efc1a07708ff1b5e5b760d0fb9c1035b6c5158d01fde9",
       "size": 8954077,
       "preview": "you win green screen_1.preview.webp",
       "previewEnc": "assets/you win green screen_1.preview.webp.enc",
-      "previewSha256": "9c7cead08d413c9e6fa8937aa2643c996e0ba7583c8fb15c1c8cf7ffd98613ec"
+      "previewSha256": "1e9b7c7eae2de830f039ec111d52c717669e1c1e486cd304d345ed0d1cd028d1"
     }
   ]
 }
